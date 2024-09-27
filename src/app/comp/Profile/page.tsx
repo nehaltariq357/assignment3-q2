@@ -20,7 +20,7 @@ const Profile = () => {
               love for creating dynamic and responsive web applications. I have
               experience in various technologies including React, Next.js, and
               Tailwind CSS. I enjoy solving complex problems and continuously
-              learning new skills to improve my craft.
+              learning new skills to improve my craftt.
             </p>
           </div>
         </div>
